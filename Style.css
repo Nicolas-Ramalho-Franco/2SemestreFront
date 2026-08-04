@@ -22,6 +22,10 @@ section#servicos {
     grid-area: servicos;
 }
 
+#grade>* {
+    border: 1px solid #000;
+}
+
 #grade {
     display: grid;
 
